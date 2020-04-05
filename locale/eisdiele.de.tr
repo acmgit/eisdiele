@@ -1,0 +1,38 @@
+# textdomain: eisdiele
+
+
+### items.lua ###
+
+America=Amerika
+Blackberry=Johannisbeere
+Blackberry-Lemon=Johannisbeer-Zitrone
+Blackberry-Pistachio=Johannisbeer-Pistazie
+Blackberry-Strawberry=Johannisbeer-Erdbeer
+Blueberry=Blaubeere
+Blueberry-Chocolate=Blaubeer-Schokolade
+Blueberry-Lemon=Blaubeer-Zitrone
+Blueberry-Raspberry=Blaubeer-Himbeer
+Blueberry-Vanilla=Blaubeer-Vanille
+Chocolate=Schokolade
+Chocolate-Strawberry=Schokolade-Erdbeer
+Cocoa Powder=Kakaopulver
+England=England
+French=Frankreich
+German=Deutschland
+Ice Cup=Eisschüssel
+Ice-Bowl=Eisschüssel
+Japan=Japan
+Mushroom red (cooked)=Roter Pilz (ausgekocht)
+New Zealand=Neu Seeland
+Pistachio=Pistazie
+Pistachio-Blackberry=Pistazie-Johannisbeere
+Pistachio-Blueberry=Pistazie-Blaubeere
+Pistachio-Vanilla=Pistazie-Vanille
+Strawberry=Erdbeer
+Strawberry-Blueberry=Erdbeer-Blaubeer
+Strawberry-Pistachio=Erdbeer-Pistazie
+Strawberry-Raspberry=Erdbeer-Himbeer
+Vanilla=Vanille
+Wafer=Waffel
+Walnut-Vanilla=Walnuss-Vanille
+Zaire=Zaire

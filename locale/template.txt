@@ -1,0 +1,38 @@
+# textdomain: eisdiele
+
+
+### items.lua ###
+
+America=
+Blackberry=
+Blackberry-Lemon=
+Blackberry-Pistachio=
+Blackberry-Strawberry=
+Blueberry=
+Blueberry-Chocolate=
+Blueberry-Lemon=
+Blueberry-Raspberry=
+Blueberry-Vanilla=
+Chocolate=
+Chocolate-Strawberry=
+Cocoa Powder=
+England=
+French=
+German=
+Ice Cup=
+Ice-Bowl=
+Japan=
+Mushroom red (cooked)=
+New Zealand=
+Pistachio=
+Pistachio-Blackberry=
+Pistachio-Blueberry=
+Pistachio-Vanilla=
+Strawberry=
+Strawberry-Blueberry=
+Strawberry-Pistachio=
+Strawberry-Raspberry=
+Vanilla=
+Wafer=
+Walnut-Vanilla=
+Zaire=
